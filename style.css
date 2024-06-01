@@ -1,0 +1,7 @@
+a>path{
+    fill: green;
+    stroke: black;
+}
+a>path:hover{
+    fill: lightgreen;
+}
