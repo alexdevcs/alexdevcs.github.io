@@ -1,0 +1,22 @@
+#server_milano{
+    fill:blue;
+    stroke: blue;
+}
+#server_bari{
+    fill:yellow;
+    stroke: yellow;
+}
+#server_napoli{
+    fill:crimson;
+    stroke: crimson;
+}
+#server_sicilia{
+    fill:green;
+    stroke: green;
+}
+
+a:hover{
+    fill:lightgreen;
+    stroke:lightgreen;
+    
+}
